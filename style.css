@@ -1,0 +1,29 @@
+h1 {
+    color: green;
+}
+
+h2 {
+    color: red;
+}
+
+p {
+    color: brown;
+}
+
+button {
+    color: fuchsia;
+    background-color: aqua;
+}
+
+
+body {
+    background-color: black;
+}
+
+#headingOne{color: aqua;}
+
+#headingTwo{color:orange;}
+
+#headingThree{color: blueviolet;}
+
+.myClass{color: green;}

@@ -1,0 +1,24 @@
+div {
+    height: 100px;
+    width: 150px;
+    background-color: pink;
+    /* border-width: 3px;
+    border-style: dashed;
+    border-color: black; */
+    border: 2px solid brown;
+    /* border-radius: 15%; */
+   padding: 25px;
+   margin-top: 50px ;
+}
+
+
+
+h1 {
+    width: 200px;
+    height: 100px;
+    background-color: aliceblue;
+    border-color: blue;
+    border-width: 3px;
+    border-style: solid;
+    text-align: center;
+}

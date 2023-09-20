@@ -1,0 +1,23 @@
+/* Q1
+ */
+#box {
+    background-color: blue;
+    /* 
+color: white;} */
+}
+
+/* Q2\
+*/
+/* 
+.heading{ color: red;} */
+or
+
+h1,
+h2,
+h3 {
+    color: red;
+}
+
+/* Q3\
+ */
+button{background-color: green;}
