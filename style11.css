@@ -1,0 +1,32 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#box1{
+    background-color: red;
+    position: static;
+}
+#box2{
+    background-color: yellow;
+    position: relative;
+    top: 20px;
+}
+#box3{
+    background-color: rgb(3, 81, 55);
+    position: absolute;
+    top: 30px;
+    left: 10px;
+}
+#box4{
+    background-image: url(cat_image.jpg);
+    background-size: cover;
+    position: fixed;
+    left: 10px;
+    bottom: 0px;
+}
+body{
+    background-size: cover;
+    background-image: url(dog_image.jpeg);
+}
